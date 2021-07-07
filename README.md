@@ -1,1 +1,3 @@
 # mpsa2021
+
+We examine the effects of shocks on the invisible presidential primary in the United States by constructing an algorithm simulating social network shocks.  Findings show that positive shocks significantly aid the lead candidate’s chances of winning in the invisible primary.  Negative shocks, however, are less detrimental to a lead candidate than positive shocks are helpful, as the leader is often able to survive a negative shock and still emerge victorious.  We support our simulation model with a broad empirical test, which demonstrates the importance of shocks and suggests that presidential candidate success in the invisible primary owes more to public- than elite-driven factors.
